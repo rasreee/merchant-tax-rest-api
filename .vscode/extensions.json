@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "formulahendry.code-runner",
+    "rangav.vscode-thunder-client",
+    "2gua.rainbow-brackets",
+    "ibm.output-colorizer",
+    "cweijan.vscode-mysql-client2",
+    "oderwat.indent-rainbow",
+    "aaron-bond.better-comments",
+    "ms-python.python"
+  ]
+}
